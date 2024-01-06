@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>安安, Auther97，GitHub</title>
+  </head>
+  <body>
+    <h1>Auther第一個網站，那你很棒毆!!</h1>
+  </body>
+</html>
